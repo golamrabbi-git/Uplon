@@ -35,7 +35,7 @@ const Navigation = ({lists = [],  setTableHeading=()=>{}}) => {
   return (
     <div className={``}>
       <div className="flex justify-center items-center h-[70px] border-b border-blue-700">
-        <h1 className=" text-[22px] text-[#0094ff] select-none">Whale Swap</h1>
+        <h1 className=" text-[22px] text-[#0094ff] select-none">Uplon</h1>
       </div>
       <div className="m-5">
         <ul className="text-white ">

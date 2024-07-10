@@ -69,10 +69,10 @@ const LoginPage = () => {
         <div className="flex items-center justify-center min-h-screen gap-1">
           <div className="relative bg-[#141C29] w-96 lg:w-1/3 p-[50px] rounded-lg shadow-lg border border-sky-500 ">
             <div className="flex flex-col items-center">
-              <h1 className="text-[32px] text-[#0094ff]">Whale Swap</h1>
+              <h1 className="text-[32px] text-[#0094ff]">Uplon</h1>
               <p className="text-white text-xl text-bold">Welcome Back</p>
               <p className="text-[#717c8b] text-[14px]">
-                Login with whale Swap
+                Login to Uplon
               </p>
             </div>
             <div className="w-full">

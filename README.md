@@ -1,1 +1,1 @@
-#Whale Swap Frontend 
+#Admin Panel Frontend
