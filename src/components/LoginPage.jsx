@@ -59,13 +59,6 @@ const LoginPage = () => {
 
   return (
     <div className="relative">
-      {/* Background image positioned at top center */}
-      {/* <div className="absolute top-0 left-1/3 w-1/3 h-1/3 bg-cover bg-no-repeat bg-center" style={{ backgroundImage:`url(${image1})`, }}></div> */}
-      {/* Background image positioned at right center */}
-      {/* <div className="absolute right-0 top-1/3  w-1/3 h-1/3 bg-cover bg-no-repeat bg-center" style={{ backgroundImage:`url(${image3})`, }}></div> */}
-      {/* Background image positioned at left right */}
-      {/* <div className="absolute left-0 top-1/3 w-1/3 h-1/3 bg-cover bg-no-repeat bg-center" style={{ backgroundImage: `url(${image2})`, }}></div> */}
-      
         <div className="flex items-center justify-center min-h-screen gap-1">
           <div className="relative bg-[#141C29] w-96 lg:w-1/3 p-[50px] rounded-lg shadow-lg border border-sky-500 ">
             <div className="flex flex-col items-center">
